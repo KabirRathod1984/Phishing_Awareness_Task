@@ -30,7 +30,7 @@ The project consists of:
 |----------------|-------------|
 | `Phishing-Awareness-Training.pptx` | Main presentation on phishing awareness |
 | `Phishing-Awareness-Training.pdf` | PDF version of the presentation |
-| [Public Quiz Link](#🧠-https://forms.gle/bd866riP3fHYHbk58) | Take the awareness quiz anonymously |
+| [Public Quiz Link](https://forms.gle/bd866riP3fHYHbk58) | Take the awareness quiz anonymously |
 
 ---
 
